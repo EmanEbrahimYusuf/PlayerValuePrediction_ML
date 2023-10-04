@@ -12,4 +12,4 @@
 * save models and get in predection section to predect only 
 * and use the grad search cv to get the best params and models 
 
-## from last get the docs to  explane project and presentation to show the steps of project
+
